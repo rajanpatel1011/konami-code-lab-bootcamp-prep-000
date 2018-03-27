@@ -5,7 +5,7 @@ function init() {
 
 const body = document.querySelector('body');
 body.addEventListener('keydown',function(e){
- alert(e.which);
+ alert(e.detail);
   
 });
 
