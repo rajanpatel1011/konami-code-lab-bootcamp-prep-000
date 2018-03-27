@@ -9,7 +9,7 @@ body.addEventListener('keydown',function(e){
   
 });
 
-
+/*
   
   for(let i=0;i<code.length;i++){
   key[i] = parseInt(e.detail||e.which);
@@ -19,5 +19,5 @@ body.addEventListener('keydown',function(e){
   else{
     e.prevaentDefault();
   }
-}
+}*/
 }
